@@ -1,4 +1,4 @@
-***BudgetBuddy source code***
+***BudgetBuddy source code Final Part***
 
 BudgetBuddy is an intuitive personal finance app designed to make budgeting 
 engaging rather than stressful. By incorporating gamification elements and visual 
