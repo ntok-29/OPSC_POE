@@ -6,6 +6,10 @@ feedback, it encourages users to develop healthy financial habits.
 
 Video presentation:  
 
+https://github.com/user-attachments/assets/883c19ff-7804-4a4b-a08d-0075d461d256
+
+
+
 DOCUMENTATION OF THE APP (MANUAL):
 1. New users will be required to create an account by entering their email address, username and password.
 2. For returning users, only the email and password will be required to access the account.
